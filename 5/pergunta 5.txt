@@ -1,0 +1,14 @@
+
+
+
+1º Caso
+
+1 | 2 - a -> ligada ==> 1 ou 2
+1 - b -> ligada ou desligada ==> 2(a), 3(b), 1(c) ou 1(a), 2(b), 3(c)
+
+2º Caso
+1| 2 - a -> desligada ==> 3(a)
+1 - b -> desligada ou ligada ==> 1(b) e 2(c) ou 1(c) e 2(b)
+
+Resposta: Temos 3 interruptores(1,2,3), e 3 salas(A,B,C), na minha primeira ida ligo 1 e 2 e vou para A , caso um esteja ligado sei que o 1 ou 2 liga A, depois ligo 1 e vou para B, se estiver desligado sei que 1 liga A e 2 liga B, logo 3 liga C
+
